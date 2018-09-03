@@ -40,7 +40,7 @@ export default [
   {
     input: 'src/index.js',
     output: {
-      name: 'add',
+      name: 'mini-project',
       file: pkg.browser,
       format: 'umd',
       sourcemap: true
@@ -52,7 +52,7 @@ export default [
   {
     input: 'src/index.js',
     output: {
-      name: 'add',
+      name: 'mini-project',
       file: pkg.browser.replace('.js', '.min.js'),
       format: 'umd',
       sourcemap: true,

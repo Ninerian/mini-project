@@ -2,9 +2,9 @@
   "name": "mini-project",
   "version": "0.0.0-semantically-released",
   "description": "",
-  "main": "dist/add.js",
-  "module": "dist/add.esm.js",
-  "browser": "dist/add.umd.js",
+  "main": "dist/mini-project.js",
+  "module": "dist/mini-project.esm.js",
+  "browser": "dist/mini-project.umd.js",
   "author": "",
   "license": "ISC",
   "directories": {
