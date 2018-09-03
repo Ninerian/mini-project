@@ -6,9 +6,11 @@ notifications:
   email: false
 node_js:
   - 'node'
+script:
+  - npm run test
+  - npm run build
 deploy:
   provider: script
   skip_cleanup: true
   script:
-    - npm run build
     - npx semantic-release
