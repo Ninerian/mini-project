@@ -1,6 +1,6 @@
 {
   "name": "mini-project",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-development",
   "description": "",
   "main": "dist/mini-project.js",
   "module": "dist/mini-project.esm.js",
@@ -22,7 +22,8 @@
     "lint": "npm run lint-code",
     "lint-code": "npx eslint src test",
     "fix": "eslint --fix 'src/**/*.js' 'test/**/*.js'",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "travis-deploy-once": "travis-deploy-once"
   },
   "release": {
     "branch": "master",
@@ -71,6 +72,11 @@
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-strip-logger": "0.4.1",
     "rollup-plugin-uglify": "4.0.0",
-    "semantic-release": "^15.9.12"
+    "semantic-release": "^15.9.12",
+    "travis-deploy-once": "^5.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ninerian/mini-project.git"
   }
 }
