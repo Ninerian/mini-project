@@ -25,7 +25,7 @@
     "semantic-release": "semantic-release"
     },
   "release": {
-    "branch": "build-config",
+    "branch": "master",
     "dryRun": true,
     "debug": true,
     "verifyConditions": [
