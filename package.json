@@ -26,7 +26,6 @@
     },
   "release": {
     "branch": "master",
-    "dryRun": true,
     "debug": true,
     "verifyConditions": [
       "@semantic-release/changelog",
