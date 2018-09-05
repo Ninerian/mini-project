@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/Ninerian/mini-project/compare/v0.2.0...v0.2.1) (2018-09-05)
+
+
+### Bug Fixes
+
+* **release:** fixes release not using NPM_TOKEN ([a3fd43d](https://github.com/Ninerian/mini-project/commit/a3fd43d))
+
 # [0.2.0](https://github.com/Ninerian/mini-project/compare/v0.1.1...v0.2.0) (2018-09-03)
 
 
