@@ -1,3 +1,15 @@
+# [0.2.0](https://github.com/Ninerian/mini-project/compare/v0.1.1...v0.2.0) (2018-09-03)
+
+
+### Bug Fixes
+
+* adds npm token before deploy ([02c2868](https://github.com/Ninerian/mini-project/commit/02c2868))
+
+
+### Features
+
+* adds minus function ([688f1b8](https://github.com/Ninerian/mini-project/commit/688f1b8))
+
 ## [0.1.1](https://github.com/Ninerian/mini-project/compare/v0.1.0...v0.1.1) (2018-09-03)
 
 
